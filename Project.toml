@@ -1,7 +1,7 @@
 name = "SkillRating"
 uuid = "a4748943-f30d-4e73-8df6-5e79d9c4d1d0"
 authors = ["Alan Schelten"]
-version = "0.1.0"
+version = "1.0.0"
 
 [compat]
 julia = "1.4"
